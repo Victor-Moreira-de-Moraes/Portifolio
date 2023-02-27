@@ -365,7 +365,7 @@ header.sticky {
 } 
 
 .layer p {
-    color: var(--second-color);
+    color: var(--text-color);
     font-size: 1rem;
     line-height: 1.8;
 }
