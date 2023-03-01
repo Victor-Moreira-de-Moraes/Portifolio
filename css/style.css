@@ -512,6 +512,10 @@ form textarea {
     font-size: 14px;
 }
 
+.last-text a {
+   color: var(--text-color); 
+}
+
 .top i {
     padding: 10px;
     border-radius: 8px;
