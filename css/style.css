@@ -375,8 +375,8 @@ header.sticky {
     margin-top: 20px;
     font-size: 20px;
     background: var(--text-color);
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
