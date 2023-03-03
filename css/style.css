@@ -343,7 +343,7 @@ header.sticky {
 .layer {
     width: 100%;
     height: 0%;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), #ff004f);
+    background: linear-gradient(rgba(0, 0, 0, 0.24), #ff004f);
     position: absolute;
     border-radius: 8px;
     left: 0;
@@ -362,12 +362,14 @@ header.sticky {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 15px;
+    text-shadow: 2px 2px 0px black;
 } 
 
 .layer p {
     color: var(--text-color);
     font-size: 1rem;
     line-height: 1.8;
+    text-shadow: 2px 2px 0px black;
 }
 
 .layer i {
